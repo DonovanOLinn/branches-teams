@@ -1,3 +1,7 @@
-"Now here I am in here making this change!"
-for x in range(100):
-    print(x)
+My_dictionary = {
+    "Here": "I",
+    "Am": "Adding a bunch more stuff"
+}
+
+for dic in My_dictionary:
+    print(dic)
